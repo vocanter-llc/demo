@@ -1,11 +1,11 @@
 {
   "students": [
-    { "id": 1, "name": "Wilson", instrumentId: 1, experience: 2},
-    { "id": 2, "name": "Linda", instrumentId: 1, experience: 5},
-    { "id": 3, "name": "Kevin", instrumentId: 2, experience: 3},
-    { "id": 4, "name": "Brian", instrumentId: 4, experience: 3},
-    { "id": 5, "name": "Ann", instrumentId: 3, experience: 4},
-    { "id": 6, "name": "Grace", instrumentId: 6, experience: 1},
+    { "id": 1, "name": "Wilson", "instrumentId": 1, "experience": 2},
+    { "id": 2, "name": "Linda", "instrumentId": 1, "experience": 5},
+    { "id": 3, "name": "Kevin", "instrumentId": 2, "experience": 3},
+    { "id": 4, "name": "Brian", "instrumentId": 4, "experience": 3},
+    { "id": 5, "name": "Ann", "instrumentId": 3, "experience": 4},
+    { "id": 6, "name": "Grace", "instrumentId": 6, "experience": 1},
   ],
   "instruments": [
     { "id": 1, "name": "Guitar" },
