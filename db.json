@@ -167,6 +167,14 @@
     {
       "id": 10,
       "name": "Viola"
+    },
+    {
+      "id": 11,
+      "name": "Xylophone"
+    },
+    {
+      "id": 12,
+      "name": "Bass Guitar"
     }
   ]
 }
